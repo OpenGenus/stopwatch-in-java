@@ -32,4 +32,4 @@ java stopwatch
 4. Stop the stopwatch by pressing Enter.
 5. Quit the program by pressing Q when prompted.
 
-For a more detailed explanation, see the [link](https://iq.opengenus.org/p/8c6891e1-0236-4eb2-9a8b-d0d0a2b184f1/).
+For a more detailed explanation, see the [link](https://iq.opengenus.org/stopwatch-in-java/).
